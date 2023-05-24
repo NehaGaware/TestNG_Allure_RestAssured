@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T18:32:44 IST" name="Suite" finished-at="2023-05-23T18:32:52 IST" duration-ms="7660">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T18:32:44 IST" name="Test" finished-at="2023-05-23T18:32:52 IST" duration-ms="7660">
+      <class name="testClassPackage.Post_tc_2">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_tc_2@768fc0f2]" started-at="2023-05-23T18:32:50 IST" name="execute" finished-at="2023-05-23T18:32:51 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_tc_2 -->
+      <class name="testClassPackage.Post_tc_1">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_tc_1@5454d35e]" started-at="2023-05-23T18:32:51 IST" name="execute" finished-at="2023-05-23T18:32:52 IST" duration-ms="858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_tc_1 -->
+      <class name="testClassPackage.Post_tc_4">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_tc_4@2d6c53fc]" started-at="2023-05-23T18:32:44 IST" name="execute" finished-at="2023-05-23T18:32:49 IST" duration-ms="4748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_tc_4 -->
+      <class name="testClassPackage.Post_tc_3">
+        <test-method signature="execute()[pri:0, instance:testClassPackage.Post_tc_3@71329995]" started-at="2023-05-23T18:32:49 IST" name="execute" finished-at="2023-05-23T18:32:50 IST" duration-ms="944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClassPackage.Post_tc_3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
